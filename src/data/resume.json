@@ -6,10 +6,10 @@
     "profileImage": "/profile.jpg"
   },
   "contact": {
-    "email": null,
+    "email": "null",
     "linkedin": "https://linkedin.com/in/bunxbio",
     "github": "https://github.com/bunxbio",
-    "phone": null,
+    "phone": "null",
     "location": "Lampung, Indonesia"
   },
   "experience": [
